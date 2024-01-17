@@ -1,0 +1,24 @@
+main {
+    font-family: 'Arial', sans-serif;
+    background-color: #000000;
+    margin: 0;
+    padding: 0;
+}
+
+img {
+    width: 100px;
+    height: 100px;
+}
+
+.pokemon-card {
+    border: black 2px;
+}
+
+.object {
+    flex-direction: row;
+    align-items: center;
+    gap: 15px;
+
+
+}
+
